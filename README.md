@@ -27,6 +27,7 @@ Does recreational marijuana legalization cause an increase in violent crime rate
 - Some state pairs show statistically significant increases post-legalization
 - Other comparisons show no effect or decreases
 - Many state pairs fail the parallel trends assumption and are excluded
+<img width="630" height="187" alt="image" src="https://github.com/user-attachments/assets/1fb1b40d-d303-4a9e-a573-91302c078529" />
 
 ## Limitations
 - Seasonality in crime
